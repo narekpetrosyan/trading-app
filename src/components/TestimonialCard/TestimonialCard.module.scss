@@ -1,0 +1,21 @@
+.item {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  border-radius: 10px;
+  border: 1px solid #565656;
+  max-width: 352px;
+  width: 100%;
+
+  .info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    .texts {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
