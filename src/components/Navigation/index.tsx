@@ -9,7 +9,7 @@ export const Navigation: FC = () => {
     <div className={styles.wrapper}>
       <div className={styles.navigation}>
         <div className={styles.logo}>
-          <Image src="/images/logo.png" alt="logo" fill />
+          <Image src="/images/logo.svg" alt="logo" fill />
         </div>
         <div className={styles.links}>
           <Links />

@@ -14,8 +14,13 @@
 
   .logo {
     position: relative;
-    width: 186px;
-    height: 58px;
+    width: 30px;
+    height: 30px;
+
+    @media screen and (min-width: 500px) {
+      width: 60px;
+      height: 60px;
+    }
   }
 
   .links {
