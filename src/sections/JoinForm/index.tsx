@@ -70,7 +70,6 @@ export const JoinForm: FC = () => {
             defaultCountry="US"
             countrySelectProps={{
               arrowComponent: "div",
-              className: styles.select,
             }}
             value={value}
             onChange={handlePhoneChange}

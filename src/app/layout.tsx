@@ -4,9 +4,9 @@ import { ReactNode } from "react"
 import { BaseProvider } from "@/providers/BaseProvider"
 
 export const metadata: Metadata = {
-  title: "Trading App",
+  title: "Join to VortexTrade",
   description:
-    "Unleash your trading potential with our intuitive app. Real-time data, seamless trades, and personalized insights. Elevate your experience and seize opportunities!",
+    "Unleash your trading potential with VortexTrade. Real-time data, seamless trades, and personalized insights. Elevate your experience and seize opportunities!",
   icons: [
     { rel: "icon", url: "/16x16.svg", sizes: "16x16" },
     { rel: "icon", url: "/32x32.svg", sizes: "32x32" },

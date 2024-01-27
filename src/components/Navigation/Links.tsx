@@ -94,7 +94,7 @@ export const Links: FC = () => {
         Testimonials
       </Link>
       <Button variant="contained" onClick={handleJoin}>
-        Start
+        Join Us
       </Button>
     </>
   )

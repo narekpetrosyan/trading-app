@@ -20,18 +20,20 @@ export const Home: FC = () => {
       <div className={styles.inner}>
         <div className={styles.texts}>
           <Typography variant={!isMobile ? "headline" : "secondHeadline"} color="white">
-            We make crypto clear and simple
+            We are born on crossroad, crossroad of engineering and trading
           </Typography>
           <Typography variant="subHeading" color="#898CA9">
-            Buy, sell, and grow your crypto with CoinFlip, the platform dedicated to every trader at
-            every level.
+            Buy, sell, and grow your crypto with VortexTrade, the platform dedicated to every trader
+            at every level.
           </Typography>
         </div>
         <div className={styles.btns}>
           <Button variant="contained" onClick={handleStart}>
             Get Started
           </Button>
-          <Button variant="text">Learn More</Button>
+          <Button variant="text" onClick={handleStart}>
+            Learn More
+          </Button>
         </div>
       </div>
       <div className={styles.gradient} />

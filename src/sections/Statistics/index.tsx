@@ -20,9 +20,9 @@ export const Statistics: FC = () => {
         </div>
 
         <div className={styles.statItem}>
-          <Typography className={styles.stat}>21.9 M</Typography>
+          <Typography className={styles.stat}>221.9 M</Typography>
           <Typography variant="paragraph" color="#C4C4C4">
-            NFTs minted
+            Earned
           </Typography>
         </div>
 

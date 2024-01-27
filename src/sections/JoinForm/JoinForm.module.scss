@@ -32,21 +32,20 @@
 }
 
 .phoneInput {
+  box-shadow: 0px 2px 2px 0px rgba(255, 255, 255, 0.15) inset, 0px 0px 30px 0px rgba(255, 255, 255, 0.05) inset;
+  border: 1px solid var(--gradient-main, #18C8FF);
   display: flex;
   align-items: center;
-
-  .select {
-    border: 1px solid var(--gradient-main, #18C8FF);
-  }
+  border-radius: 10px;
+  overflow: hidden;
+  background: transparent;
+  padding: 0 0 0 20px;
 
   input {
-    border-radius: 10px;
-    border: 1px solid var(--gradient-main, #18C8FF);
+    border: none;
+    outline: none;
     padding: 16px 20px;
     background: transparent;
     color: #18C8FF;
-    box-shadow: 0px 2px 2px 0px rgba(255, 255, 255, 0.15) inset, 0px 0px 30px 0px rgba(255, 255, 255, 0.05) inset;
-    -webkit-backdrop-filter: blur(20px);
-    backdrop-filter: blur(20px);
   }
 }
