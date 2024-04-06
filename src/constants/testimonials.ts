@@ -10,14 +10,14 @@ export const TESTIMONIALS = [
     avatar: "/images/people/avatar_2.avif",
     position: "SEO specialist",
     comment:
-      "Impressive success, VortexTrade! Their innovative approach and strategic brilliance have set a new standard in the competitive crypto trading space. A true pioneer, they're redefining the game and inspiring others in this dynamic industry. Cheers to [Startup Name] and their exciting journey!",
+      "Impressive success, VortexTrade! Their innovative approach and strategic brilliance have set a new standard in the competitive crypto space. A true pioneer, they're redefining the game and inspiring others in this dynamic industry. Cheers to [Startup Name] and their exciting journey!",
   },
   {
     name: "Alice C. James",
     avatar: "/images/people/avatar_3.jpeg",
     position: "CEO",
     comment:
-      "Thrilled to witness the remarkable ascent of VortexTrade in the crypto trading realm! Their innovative approach, cutting-edge technology, and strategic insights have propelled them to unparalleled success. It's not just about trading, but a testament to their commitment to delivering value and staying ahead in this dynamic market. A true trailblazer in the crypto space, [Startup Name] exemplifies the spirit of success through resilience, adaptability, and a deep understanding of the ever-evolving blockchain landscape.",
+      "Thrilled to witness the remarkable ascent of VortexTrade in the crypto realm! Their innovative approach, cutting-edge technology, and strategic insights have propelled them to unparalleled success. It's not just about crypto, but a testament to their commitment to delivering value and staying ahead in this dynamic market. A true trailblazer in the crypto space, [Startup Name] exemplifies the spirit of success through resilience, adaptability, and a deep understanding of the ever-evolving blockchain landscape.",
   },
   {
     name: "Mattiesko Hietamies",

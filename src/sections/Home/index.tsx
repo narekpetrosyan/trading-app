@@ -20,11 +20,11 @@ export const Home: FC = () => {
       <div className={styles.inner}>
         <div className={styles.texts}>
           <Typography variant={!isMobile ? "headline" : "secondHeadline"} color="white">
-            We are born on crossroad, crossroad of engineering and trading
+            We are born on crossroad, crossroad of engineering
           </Typography>
           <Typography variant="subHeading" color="#898CA9">
-            Buy, sell, and grow your crypto with VortexTrade, the platform dedicated to every trader
-            at every level.
+            Buy, sell, and grow your crypto with VortexTrade, the platform dedicated to every crypto
+            enthusiast at every level.
           </Typography>
         </div>
         <div className={styles.btns}>

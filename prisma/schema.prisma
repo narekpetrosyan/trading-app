@@ -17,4 +17,5 @@ model User {
   last_name  String
   email      String @unique
   phone      String
+  agree_with_terms      Boolean
 }
